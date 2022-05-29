@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Create React App documentation
+
+
+This documentation includes the basic create-react-app commands, **the relevant documentation for this project can be found on the root Readme**.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
